@@ -41,8 +41,8 @@ cta-item2-link: /portofolio_fastn/resume
 ;; -----------------------------------------------------
 
 -- toast.stack:
-title: Hello, I'm aspiring fastn developer based in India
-link: https://github.com/ConnectBhawna
+title: Hello, I'm a Founder based in India
+link: https://github.com/arpan-mondal
 
 ;; -----------------------------------------------------
 ;; ***** PORTFOLIO Toast ends *****
@@ -76,17 +76,17 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: Bhawna Chauhan,
+secondTitle: Arpan Mondal,
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: Software
-secondTitle: developer
+firstTitle: Founder 
+secondTitle: & CEO
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: and
-secondTitle: procastinator.
+secondTitle: writer.
 
--- ftd.text: I sleep,code,eat and repeat. I love connecting with different folks.
+-- ftd.text: Building new age Startup in AI & Blockchain. Let's Connect folks.
 role: $lib.home-description-responsive-typography
 margin-top.px: 10
 max-width.fixed.px: 700
@@ -97,12 +97,12 @@ white-space: normal
 spacing.fixed.px: 10
 
 -- button.secondary:
-title: Hire me
-link: mailto:bhawna@gmail.com
+title: For Consultation
+link: mailto:accesstoarpan@gmail.com 
 
 -- button.primary:
 title: Schedule a Meeting
-link: calandly/bhawna
+link: calendly/accesstoarpan
 isNewTab: true
 
 -- end: ftd.row
@@ -116,23 +116,23 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://linkedin.com/in/ConnectBhawna
+link: https://www.linkedin.com/in/arpan-mondal-web3/
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
-link: https://twitter.com/ConnectBhawna
+link: https://twitter.com/Arpan_MegaVerse
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/ConnectBhawna
+link: https://github.com/arpan-mondal
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
-link: https://instagram.com/Connect.bhawna
+link: https://www.instagram.com/mili_arpan/
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: mailto:bhawna@gmail.com
+link: mailto:accesstoarpan@gmail.com
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
@@ -168,7 +168,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: Bhawna Chauhan,
+secondTitle: Arpan Mondal,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: Software
@@ -178,7 +178,7 @@ secondTitle: developer
 firstTitle: and
 secondTitle: explorer.
 
--- ftd.text: I sleep,code,eat and repeat. I love connecting with different folks.
+-- ftd.text: Building new age Startup in AI & Blockchain. Let's Connect folks.
 role: $lib.home-description-responsive-typography
 margin-top.px: 10
 max-width.fixed.px: 700
@@ -190,11 +190,11 @@ spacing.fixed.px: 10
 
 -- button.secondary:
 title: Hire me
-link: mailto:bhawna@gmail.com
+link: mailto:accesstoarpan@gmail.com
 
 -- button.primary:
 title: Schedule a Meeting
-link: calandly/Bhawna1203
+link: calandly/accesstoarpan
 isNewTab: true
 
 -- end: ftd.row
@@ -207,23 +207,23 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://linkedin.com/in/ConnectBhawna
+link: https://www.linkedin.com/in/arpan-mondal-web3/
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
-link: https://twitter.com/ConnectBhawna
+link: https://twitter.com/Arpan_MegaVerse
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/ConnectBhawna
+link: https://github.com/arpan-mondal
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
-link: https://instagram.com/ConnectBhawna
+link: https://www.instagram.com/mili_arpan/
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: mailto: bhawna@gmail.com
+link: mailto: accesstoarpan@gmail.com
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
